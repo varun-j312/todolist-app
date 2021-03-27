@@ -24,4 +24,5 @@ Used Node.js and mongodb.
 
 ## Architecture and process flow diagram
 
+![architecture-diagram](./architecture.png)
 ![flow-diagram](./flow-diagram.png)
